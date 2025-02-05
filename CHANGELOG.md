@@ -1,3 +1,9 @@
+## 0.16.20-dev0
+
+### Fixes
+
+- **Fix file type detection for NDJSON files** NDJSON files were being detected as JSON due to having the same mime-type.
+
 ## 0.16.19
 
 ### Enhancements
